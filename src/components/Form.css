@@ -1,0 +1,16 @@
+.form-container {
+    width: 100%;
+    max-width: 450px;
+    padding: 30px;
+    margin-top: 48px;
+    margin-bottom: 55px;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(226, 218, 218, 0.38);
+    transition: transform 0.3s ease-in;
+    background: linear-gradient(to right, #444343, #817a7a);
+  }
+  
+  .form-container:hover {
+    transform: scale(1.05); 
+  }
+  
